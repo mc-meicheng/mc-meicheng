@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### - I'm currently learning how trees interact with light
+### - How to find me: maybe a random trail in Michigan
+
 <!--
 **mc-meicheng/mc-meicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
